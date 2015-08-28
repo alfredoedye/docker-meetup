@@ -1,3 +1,3 @@
 # docker-meetup
 
-test
+github -> dockerhub -> Tutum -> AWS
