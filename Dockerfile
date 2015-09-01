@@ -1,5 +1,3 @@
-#
-# Ghost Dockerfile
 FROM node:0.10-slim
 
 RUN groupadd user && useradd --create-home --home-dir /home/user -g user user
